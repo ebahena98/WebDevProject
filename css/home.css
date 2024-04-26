@@ -13,7 +13,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background: url('../img/bg.jpg');
+    background: url('../img/CSUDHBackground.jpg');
     background-size: cover;
     background-position: center;
     font-family: "roboto", sans-serif;
@@ -50,5 +50,4 @@
     color: #fff;
     font-weight: 800;
     text-transform: capitalize;
-
  }
