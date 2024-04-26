@@ -37,3 +37,8 @@ background-origin
 background-clip
 background-attachment
 It does not matter if one of the values above are missing, e.g. background:#ff0000 url(smiley.gif); is allowed.
+
+- HTML DOM Document querySelector() (LINK: https://www.w3schools.com/jsref/met_document_queryselector.asp)
+- The querySelector() method returns the first element that matches a CSS selector.
+- To return all matches (not only the first), use the querySelectorAll() instead.
+- Both querySelector() and querySelectorAll() throw a SYNTAX_ERR exception if the selector(s) is invalid.
