@@ -1,0 +1,18 @@
+{
+  "name": "loginform",
+  "version": "1.0.0",
+  "description": "INFO BELOW\r https://www.youtube.com/watch?v=Lcih8lCY19k",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express.js": "^1.0.0",
+    "mysql": "^2.18.1",
+    "nodemon": "^3.1.0",
+    "pg": "^8.11.5"
+  }
+}
